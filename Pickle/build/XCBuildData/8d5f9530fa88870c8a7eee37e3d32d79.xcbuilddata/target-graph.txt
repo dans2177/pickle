@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Pickle' in project 'Pickle' (no dependencies)
