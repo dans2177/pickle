@@ -1,0 +1,224 @@
+{
+  "source": "/Users/danielshemon/pickleball/Pickleball/Picklewatch/Picklewatch/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "First to 11 • Win by 2",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "PICKLEBALL",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "TEAM 1",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "−",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "+",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "RESET",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "TEAM 2",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "−",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "+",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "GAME IN PROGRESS",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "READY TO PLAY",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "PICKLEBALL",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "Let's Play!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to start your pickleball match",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "START",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 414
+        }
+      },
+      {
+        "comment": "",
+        "key": "VS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 465
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 523
+        }
+      },
+      {
+        "comment": "",
+        "key": "POINTS",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 534
+        }
+      },
+      {
+        "comment": "",
+        "key": "QUICK ACTIONS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 620
+        }
+      },
+      {
+        "comment": "",
+        "key": "RECENT MATCHES",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 697
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apple Watch",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 748
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connected",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 752
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disconnected",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 752
+        }
+      },
+      {
+        "comment": "",
+        "key": "GAME ON!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 779
+        }
+      }
+    ]
+  },
+  "version": 1
+}

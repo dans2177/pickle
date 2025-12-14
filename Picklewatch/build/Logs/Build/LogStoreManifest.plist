@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>76F36499-83DF-443C-B6E2-EEC90D329084</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76F36499-83DF-443C-B6E2-EEC90D329084.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>8</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Picklewatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Picklewatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Picklewatch with scheme Picklewatch</string>
+			<key>timeStartedRecording</key>
+			<real>787354663.60807502</real>
+			<key>timeStoppedRecording</key>
+			<real>787354672.05350697</real>
+			<key>title</key>
+			<string>Building project Picklewatch with scheme Picklewatch</string>
+			<key>uniqueIdentifier</key>
+			<string>76F36499-83DF-443C-B6E2-EEC90D329084</string>
+		</dict>
+		<key>9C6FBA4E-F228-429E-90DC-7F7AE11090E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C6FBA4E-F228-429E-90DC-7F7AE11090E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Picklewatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Picklewatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project Picklewatch with scheme Picklewatch</string>
+			<key>timeStartedRecording</key>
+			<real>787354758.15593505</real>
+			<key>timeStoppedRecording</key>
+			<real>787354758.59362197</real>
+			<key>title</key>
+			<string>Cleaning project Picklewatch with scheme Picklewatch</string>
+			<key>uniqueIdentifier</key>
+			<string>9C6FBA4E-F228-429E-90DC-7F7AE11090E1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

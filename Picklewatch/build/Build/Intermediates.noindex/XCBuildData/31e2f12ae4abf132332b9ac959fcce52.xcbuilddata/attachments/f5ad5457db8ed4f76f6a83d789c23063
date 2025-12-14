@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/Picklewatch Watch App-primary.dia",
+    "emit-module-dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/Picklewatch Watch App-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/Picklewatch Watch App-primary-emit-module.dia",
+    "pch" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/Picklewatch Watch App-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/Picklewatch Watch App-primary.swiftdeps"
+  },
+  "/Users/danielshemon/pickleball/Pickleball/Picklewatch/Picklewatch Watch App/ContentView.swift" : {
+    "const-values" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/danielshemon/pickleball/Pickleball/Picklewatch/Picklewatch Watch App/PicklewatchApp.swift" : {
+    "const-values" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.swiftconstvalues",
+    "dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.d",
+    "diagnostics" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.dia",
+    "index-unit-output-path" : "/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.o",
+    "llvm-bc" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.bc",
+    "object" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.o",
+    "swift-dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp.swiftdeps",
+    "swiftmodule" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/PicklewatchApp~partial.swiftmodule"
+  },
+  "/Users/danielshemon/pickleball/Pickleball/Picklewatch/Picklewatch Watch App/WatchGameModel.swift" : {
+    "const-values" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.swiftconstvalues",
+    "dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.d",
+    "diagnostics" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.dia",
+    "index-unit-output-path" : "/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.o",
+    "llvm-bc" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.bc",
+    "object" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.o",
+    "swift-dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel.swiftdeps",
+    "swiftmodule" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/WatchGameModel~partial.swiftmodule"
+  },
+  "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/danielshemon/pickleball/Pickleball/Picklewatch/build/Build/Intermediates.noindex/Picklewatch.build/Debug-watchsimulator/Picklewatch Watch App.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

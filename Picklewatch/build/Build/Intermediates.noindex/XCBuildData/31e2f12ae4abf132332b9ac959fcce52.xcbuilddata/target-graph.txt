@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Picklewatch' in project 'Picklewatch'
+➜ Explicit dependency on target 'Picklewatch Watch App' in project 'Picklewatch'
+Target 'Picklewatch Watch App' in project 'Picklewatch' (no dependencies)
